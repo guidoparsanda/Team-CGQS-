@@ -116,3 +116,11 @@ Explainability is crucial. SHAP values highlight which features contributed most
   - Scikit-learn and SHAP for ML and explainability resources.
 
 ---
+
+Created by team CGQS!
+
+- Gde Putu Guido Parsanda
+- Chen Xi Diong
+- Qiao Er Tee
+- Soong Jun
+- Niu Zhaohang
